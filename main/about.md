@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+My name is Samuel Hibbard. I love programming, play board games and DND games. Love video games, books, and music. Can play several instruments. I love my family and doing activties with them. Currently I am an iOS Software Developer for USAA.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I wanted to start my own personal wiki/blog website to put my ideas out there on the internet. I am hopeful this will start going somewhere. Not sure how to proceed but I figured I could start here. Please reach out to me on Twitter if you have any ideas for me. My Twitter account link is below.
